@@ -5,6 +5,7 @@
 - [@suqi](https://github.com/suqi)
 - [@spawnris](https://github.com/spawnris)
 - [@liuyu](https://github.com/liuyu)
+- [@muxueqz](https://github.com/muxueqz)
 
 感谢社区贡献者：
 名单会永远记录在每个repo的contributor列表里。
